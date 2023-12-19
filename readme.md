@@ -1,1 +1,1 @@
-Pug in a rug
+Pug in a rug!
